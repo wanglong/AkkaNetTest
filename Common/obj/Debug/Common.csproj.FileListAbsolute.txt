@@ -1,0 +1,9 @@
+D:\doc\VS2012 Work\AkkaNetTest\Common\bin\Debug\Common.dll
+D:\doc\VS2012 Work\AkkaNetTest\Common\bin\Debug\Common.pdb
+D:\doc\VS2012 Work\AkkaNetTest\Common\bin\Debug\Akka.dll
+D:\doc\VS2012 Work\AkkaNetTest\Common\bin\Debug\Newtonsoft.Json.dll
+D:\doc\VS2012 Work\AkkaNetTest\Common\bin\Debug\Akka.xml
+D:\doc\VS2012 Work\AkkaNetTest\Common\bin\Debug\Newtonsoft.Json.xml
+D:\doc\VS2012 Work\AkkaNetTest\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\doc\VS2012 Work\AkkaNetTest\Common\obj\Debug\Common.dll
+D:\doc\VS2012 Work\AkkaNetTest\Common\obj\Debug\Common.pdb
